@@ -14,7 +14,7 @@ Grupo:      Hugo Leonardo Viana
 
 
 
-## O que é uma fila?.
+## O que é uma fila?
 
 Em Ciências da Computação, uma fila é uma estrutura de dados que organiza elementos em uma ordem específica, conhecida como "primeiro a entrar, primeiro a sair" (FIFO - First-In-First-Out). Ela representa uma coleção de elementos em que novos elementos são adicionados ao final da fila e a remoção ocorre no início da fila. Em termos visuais, imagine uma fila de pessoas esperando em um guichê de atendimento, onde a pessoa que chegou primeiro é a primeira a ser atendida.
 
